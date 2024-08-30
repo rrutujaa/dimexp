@@ -1,0 +1,17 @@
+
+User-agent: *
+Disallow:
+
+
+Disallow: /admin/
+
+
+Disallow: /temp/
+Disallow: /drafts/
+
+
+User-agent: BadBot
+Disallow: /
+
+
+Sitemap: https://www.fashionhub.com/sitemap.xml
